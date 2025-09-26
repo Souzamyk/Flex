@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.circulos1{
+    width: 100vw;
+    height: 150px;
+    background-color: rgb(114, 41, 242);
+    display:flex;
+    justify-content: end;
+}
+.circulos1 div{
+    width: 10%;
+    height: 150px;
+    background-color: rgb(8, 152, 255);
+    border-radius: 100%;
+    
+}
+.circulos2{
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(253, 114, 28);
+    display: flex;
+    justify-content:end;
+    align-items:center;
+
+}
+.circulos2 div{
+    width: 10%;
+    height: 150px;
+    background-color: rgb(76, 0, 239);
+    border-radius: 100%;
+}
+
+.circulos3{
+    width: 100vw;
+    height: 300px;
+    background-color: rgb(17, 44, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.circulos3 div{
+    width: 10%;
+    height: 150px;
+    background-color: rgb(217, 122, 38);
+    border-radius: 100%;
+
+}
+
+.circulos4{
+    width: 100vw;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.circulos4 div{
+    width: 10%;
+    height: 150px;
+    background-color: rgb(27, 220, 10);
+    border-radius: 100%;
+}
+.circulos5{
+    width: 100vw;
+    height: 300px;
+    background-color: rgb(25, 169, 180);
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.circulos5 div{
+    width: 10%;
+    height: 150px;
+    background-color: rgb(204, 193, 35);
+    border-radius: 100%;
+
+}
